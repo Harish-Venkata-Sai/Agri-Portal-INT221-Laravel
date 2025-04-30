@@ -1,4 +1,4 @@
-# Farmers Assistant Project
+# Agri Portal
 
 The Farmers Assistant project is a web application built using Laravel and Tailwind CSS. It provides a platform for farmers, admins, and advisors to interact and facilitate farming-related activities. Users can register, login, and perform specific actions based on their roles.
 
@@ -22,21 +22,6 @@ The Farmers Assistant project is a web application built using Laravel and Tailw
 
 5. **Discounts**
    - Subscribed farmers receive discounts on agricultural products.
-
-## Demo
-
-Login as Farmer
-<img src="./doc/assets/reg.gif" atl="reg_logins">
-
-order
-<img src="./doc/assets/order.gif" atl="order">
-
-Mail
-<img src="./doc/assets/mail.gif" atl="mail">
-
-profile edit
-<img src="./doc/assets/profile.gif" atl="profile">
-
 
 
 ## Installation
