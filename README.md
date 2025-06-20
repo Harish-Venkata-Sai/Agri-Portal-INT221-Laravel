@@ -1,6 +1,6 @@
 # Agri Portal
 
-The Farmers Assistant project is a web application built using Laravel and Tailwind CSS. It provides a platform for farmers, admins, and advisors to interact and facilitate farming-related activities. Users can register, login, and perform specific actions based on their roles.
+The Agri Portal project is a web application built using Laravel and Tailwind CSS. It provides a platform for farmers, admins, and advisors to interact and facilitate farming-related activities. Users can register, login, and perform specific actions based on their roles.
 
 ## Features
 
